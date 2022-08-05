@@ -1,5 +1,8 @@
 ## Switch Fightstick Code (Atmega32U4)
 
+This is a fork of the ATMega32U4 Switch Fightstick by fluffymadness. This version disables the 3-mode input system and instead enables the Screenshot button.
+_________________________________________________________
+
 This one is a working switch fightstick sketch
 flashable via Arduino IDE. I personally use it on a pro micro clone microcontroller that can be bought for 2-3$ on aliexpress. My motivation was to have a working solution for dirt-cheap easy source-able parts. Well here it is. 
 
